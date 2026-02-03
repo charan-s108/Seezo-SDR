@@ -32,14 +32,7 @@ Perfect for **developers, security architects, and product teams** who need secu
 
 ## 🎥 **Product Demo**
 
-<div align="center">
-
-<video width="920" controls>
-    <source src="public/demo/seezo-demo.mp4" type="video/mp4" />
-    Your browser does not support the video tag.
-</video>
-
-</div>
+[![Seezo Demo](public/demo/seezo-demo-cover.jpg)](https://raw.githubusercontent.com/charan-s108/Seezo-SDR/main/public/demo/seezo-demo.mp4)
 
 ## 🧩 **High-Level Architecture**
 
